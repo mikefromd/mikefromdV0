@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 Just added one line to see the impact of that change when I overwrite the site and select another theme. Here is an image
+
 ![TR-808 Coding](assets/dezeen_Program-Your-808-by-Rob-Ricketts-4.jpeg)
 
 You can use the [editor on GitHub](https://github.com/mikefromd/mikefromd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
